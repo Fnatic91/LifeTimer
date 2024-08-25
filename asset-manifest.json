@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/LifeTimer/static/css/main.48d94f2f.chunk.css",
-    "main.js": "/LifeTimer/static/js/main.870f3f5d.chunk.js",
+    "main.css": "/LifeTimer/static/css/main.9e9ca1dd.chunk.css",
+    "main.js": "/LifeTimer/static/js/main.3aefe3ad.chunk.js",
     "runtime~main.js": "/LifeTimer/static/js/runtime~main.e4e854b7.js",
     "static/js/2.07b41d29.chunk.js": "/LifeTimer/static/js/2.07b41d29.chunk.js",
     "index.html": "/LifeTimer/index.html",
-    "precache-manifest.c8f99bbb8c07aeef4056a360aa65bb1d.js": "/LifeTimer/precache-manifest.c8f99bbb8c07aeef4056a360aa65bb1d.js",
+    "precache-manifest.74bb02fa147562ce5332402a4ebbaebf.js": "/LifeTimer/precache-manifest.74bb02fa147562ce5332402a4ebbaebf.js",
     "service-worker.js": "/LifeTimer/service-worker.js"
   }
 }
